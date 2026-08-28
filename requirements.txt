@@ -1,0 +1,6 @@
+pandas
+numpy
+kafka-python-ng
+SQLAlchemy
+pymysql
+cryptography
