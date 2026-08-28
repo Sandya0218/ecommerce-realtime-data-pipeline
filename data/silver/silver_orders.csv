@@ -1,1 +1,11 @@
-
+order_id,customer_id,product,category,quantity,price,total_amount,payment_method,city,status,timestamp
+1000,CUST_117,Desk Chair,Furniture,1,150.0,150.0,Card,Chicago,Completed,2026-08-28 12:11:11
+1001,CUST_106,Mouse,Electronics,1,25.0,25.0,Net Banking,Chicago,Pending,2026-08-28 12:11:11
+1002,CUST_105,Desk Chair,Furniture,1,150.0,150.0,UPI,Chicago,Cancelled,2026-08-28 12:11:11
+1003,CUST_102,Desk Chair,Furniture,4,150.0,600.0,PayPal,Chicago,Pending,2026-08-28 12:11:11
+1004,CUST_111,Mouse,Electronics,4,25.0,100.0,Net Banking,Seattle,Completed,2026-08-28 12:11:11
+1005,CUST_103,Keyboard,Electronics,4,50.0,200.0,PayPal,Seattle,Completed,2026-08-28 12:11:11
+1006,CUST_117,Mouse,Electronics,2,25.0,50.0,Card,San Francisco,Cancelled,2026-08-28 12:11:11
+1007,CUST_116,Keyboard,Electronics,1,50.0,50.0,Net Banking,San Francisco,Pending,2026-08-28 12:11:11
+1008,CUST_107,Desk Chair,Furniture,2,150.0,300.0,UPI,Seattle,Cancelled,2026-08-28 12:11:11
+1009,CUST_117,Coffee Maker,Kitchen,3,40.0,120.0,PayPal,Seattle,Cancelled,2026-08-28 12:11:11
